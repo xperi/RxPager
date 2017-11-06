@@ -1,0 +1,34 @@
+PODS:
+  - RxCocoa (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxDataSources (1.0.4):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - RxPager (0.1.0):
+    - RxCocoa (~> 3.0)
+    - RxDataSources (~> 1.0)
+    - RxSwift (~> 3.0)
+    - RxSwiftExt (~> 2.5)
+  - RxSwift (3.6.1)
+  - RxSwiftExt (2.5.1):
+    - RxSwiftExt/Core (= 2.5.1)
+  - RxSwiftExt/Core (2.5.1):
+    - RxSwift (~> 3.4)
+
+DEPENDENCIES:
+  - RxPager (from `../`)
+
+EXTERNAL SOURCES:
+  RxPager:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RxCocoa: 84a08739ab186248c7f31ce4ee92d6f8a947d690
+  RxDataSources: b3389acc5fe2eefb8fcd81a2b76a876ad08bc82a
+  RxPager: ed582ea4cfe04c11e5cb99dd224c449bf033c315
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+  RxSwiftExt: ec25c6df68d15ad6fe326792d60452b52e83d606
+
+PODFILE CHECKSUM: 2457dbe998f55b328aae61e19118d779d210e30d
+
+COCOAPODS: 1.2.1

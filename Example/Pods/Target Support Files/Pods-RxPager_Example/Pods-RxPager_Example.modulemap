@@ -1,0 +1,6 @@
+framework module Pods_RxPager_Example {
+  umbrella header "Pods-RxPager_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

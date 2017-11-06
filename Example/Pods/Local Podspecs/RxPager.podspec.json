@@ -1,0 +1,36 @@
+{
+  "name": "RxPager",
+  "version": "0.1.0",
+  "summary": "A short description of RxPager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xperi/RxPager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xperi": "xperi@naver.com"
+  },
+  "source": {
+    "git": "https://github.com/xperi/RxPager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RxPager/Classes/**/*",
+  "dependencies": {
+    "RxSwift": [
+      "~> 3.0"
+    ],
+    "RxCocoa": [
+      "~> 3.0"
+    ],
+    "RxDataSources": [
+      "~> 1.0"
+    ],
+    "RxSwiftExt": [
+      "~> 2.5"
+    ]
+  }
+}
